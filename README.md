@@ -16,4 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carina-oliveira1&title_color=a5e4c2&text_color=ffffff&bg_color=000000&)](https://github.com/carina-oliveira1/github-readme-stats)
 
 ##
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carina-oliveira1/carina-oliveira1/blob/output/github-contribution-grid-snake.svg)
