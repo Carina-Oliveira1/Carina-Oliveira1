@@ -16,4 +16,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carina-oliveira1&title_color=a5e4c2&text_color=ffffff&bg_color=000000&)](https://github.com/carina-oliveira1/github-readme-stats)
 
 ##
-![Snake animation](https://github.com/carina-oliveira1/carina-oliveira1/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Contatos:
+<div>
+<a href="https://www.linkedin.com/in/carina-oliveira-be" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80"/></a>   
+</div>
