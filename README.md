@@ -24,5 +24,5 @@
 
 ## Contatos:
 <div>
-<a href="https://www.linkedin.com/in/carina-oliveira-be" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80"/></a>   
+<a href="https://www.linkedin.com/in/carina-oliveira-be" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80" target="_blank"/></a>   
 </div>
